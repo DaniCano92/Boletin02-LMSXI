@@ -3,4 +3,5 @@
 <deporte Atletismo /> <nombre>Jesse Owens</nombre>
 <deportista>
 <deporte Natación /> <nombre>Mark Spitz</nombre>
-</deportista> </deportistas>
+</deportista> 
+</deportistas>
