@@ -2,7 +2,7 @@
 <programas>
         <programa> nombre="Firefox" licencia="GPL" licencia="MPL" 
         </programa>
-        <programa> nombre="OpenOffice.org" licencia=LGPL 
+        <programa> nombre="OpenOffice.org" licencia="LGPL"
         </programa>
         <programa> nombre="Inkscape" licencia="GPL" 
         </programa>   
